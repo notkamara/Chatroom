@@ -1,2 +1,2 @@
 # Chatroom
-Python Chatroom including Server and Client Side 
+Python Chatroom including Server and Client Side Applications
